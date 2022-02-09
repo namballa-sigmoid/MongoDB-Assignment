@@ -14,11 +14,13 @@ d. users
 4. Create Python methods and MongoDB queries to support the below operations -
 
 a. comments collection
+
 i. Find top 10 users who made the maximum number of comments
 ii. Find top 10 movies with most comments
 iii. Given a year find the total number of comments created each month in that year
 
 b. movies collection
+
 i. Find top `N` movies -
 1. with the highest IMDB rating
 2. with the highest IMDB rating in a given year
@@ -38,5 +40,6 @@ iii. Find top `N` actors -
 iv. Find top `N` movies for each genre with the highest IMDB rating
 
 c. theatre collection
+
 i. Top 10 cities with the maximum number of theatres
 ii. top 10 theatres nearby given coordinates
